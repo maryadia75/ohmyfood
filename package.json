@@ -1,0 +1,22 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "projet 3 ohmyfood openclassroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryadia75/ohmyfood.git"
+  },
+  "author": "dm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryadia75/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/maryadia75/ohmyfood#readme",
+  "devDependencies": {
+    "sass": "^1.48.0"
+  }
+}
