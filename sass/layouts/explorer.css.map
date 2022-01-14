@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACN,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,IAAI;CAYb;;AAdH,AAGI,SAHK,CAGH,EAAE,CAAC;EACH,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,IAAI;CACb;;AANL,AAOI,SAPK,CAOH,CAAC,CAAC;EACF,SAAS,EAAE,IAAI;CAChB;;AATL,AAUI,SAVK,CAUH,MAAM,CAAC;EAEP,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "explorer.scss"
+    ],
+    "names": [],
+    "file": "explorer.css"
+}

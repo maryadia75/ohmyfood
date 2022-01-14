@@ -1,0 +1,18 @@
+.explorer {
+  text-align: center;
+  margin: 2rem;
+}
+
+.explorer h2 {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+.explorer p {
+  font-size: 1rem;
+}
+
+.explorer button {
+  font-size: 1rem;
+}
+/*# sourceMappingURL=explorer.css.map */
